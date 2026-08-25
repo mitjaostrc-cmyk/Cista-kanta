@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#5aa92e"/><stop offset="1" stop-color="#86c83e"/></linearGradient></defs>
+<g transform="translate(8 8)">
+<rect x="22" y="36" width="76" height="84" rx="12" fill="none" stroke="url(#g)" stroke-width="9"/>
+<path d="M18 34h84M43 21h34" fill="none" stroke="#193b28" stroke-width="9" stroke-linecap="round"/>
+<path d="M42 65c12 8 25 8 37 0M42 86c12 8 25 8 37 0" fill="none" stroke="#5aa92e" stroke-width="6" stroke-linecap="round"/>
+<path d="M59 51v48" stroke="#193b28" stroke-width="5"/>
+<circle cx="58" cy="13" r="5" fill="#5aa92e"/><circle cx="78" cy="9" r="4" fill="#5aa92e"/><circle cx="39" cy="10" r="3" fill="#5aa92e"/>
+</g>
+<text x="125" y="72" font-family="Arial,sans-serif" font-size="43" font-weight="900" fill="#163b2a">ČISTA</text>
+<text x="125" y="116" font-family="Arial,sans-serif" font-size="43" font-weight="900" fill="#5aa92e">KANTA</text>
+<text x="127" y="140" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.2" fill="#52615a">PROFESIONALNO ČIŠČENJE ZABOJNIKOV</text>
+</svg>
