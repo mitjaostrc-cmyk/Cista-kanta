@@ -18,4 +18,5 @@ Pomembno:
 - _next trenutno kaže na https://cistakanta.si/hvala.html
 - pred objavo mora domena cistakanta.si že kazati na vaše gostovanje.
 
-PREVIEW ČISTA KANTA
+
+V2 – optimizirano za mobilne telefone: glava, hero, slike pred/po, razmaki, tipografija in obrazec.

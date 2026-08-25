@@ -26,6 +26,42 @@ footer{background:#132f44;color:#c9d6dc;padding:22px 0;font-size:13px}.foot{disp
 @media(max-width:900px){nav{display:none}.brand img{width:210px}.hero-photo{inset:0;background:linear-gradient(90deg,rgba(10,43,64,.95),rgba(10,43,64,.68)),url("hero.jpg") center/cover}.hero h1{font-size:52px}.services,.steps,.price-grid,.visual,.contact-grid{grid-template-columns:1fr}.contact-grid{gap:28px}.phone{display:none}.foot{display:block}.foot div+div{margin-top:7px}}
 @media(max-width:520px){.nav{height:72px}.brand img{width:180px}.hero,.hero .wrap{min-height:610px}.hero-content{padding:55px 0 70px}.hero h1{font-size:43px}.hero p{font-size:17px}.price strong{font-size:37px}.trust{gap:13px}.trust div{font-size:11px}.form{grid-template-columns:1fr}.form textarea,.form .full,.form button{grid-column:1}.section-title h2{font-size:31px}}
 </style>
+
+<style id="mobile-v2">
+html{scroll-behavior:smooth}
+body{overflow-x:hidden}
+img{max-width:100%;height:auto}
+@media (max-width:700px){
+  header,.header,.navbar,.nav,.site-header{position:sticky!important;top:0;z-index:1000;min-height:72px!important;height:auto!important}
+  .logo,.brand img,header img{max-height:52px!important;width:auto!important}
+  nav ul,.nav ul,.menu{display:none!important}
+  .hero{min-height:0!important;height:auto!important;padding:88px 20px 34px!important;background-position:center!important}
+  .hero h1{font-size:38px!important;line-height:1.02!important;margin-bottom:14px!important}
+  .hero h2{font-size:30px!important;line-height:1.05!important}
+  .hero p{font-size:17px!important;line-height:1.45!important}
+  section{padding:42px 20px!important}
+  .container{width:auto!important;max-width:100%!important;margin:0!important}
+  .grid,.cards,.features,.steps,.service-grid{grid-template-columns:1fr!important;display:grid!important;gap:18px!important}
+  .two-col,.split,.contact-grid{grid-template-columns:1fr!important;display:grid!important;gap:24px!important}
+  .before-after,.comparison,.image-grid{display:block!important}
+  .before-after img,.comparison img,.image-grid img{width:100%!important;height:auto!important;display:block!important;object-fit:cover!important}
+  .before-after{overflow:hidden!important;border-radius:14px!important}
+  h1{font-size:34px!important;line-height:1.08!important}
+  h2{font-size:28px!important;line-height:1.12!important}
+  h3{font-size:20px!important}
+  p,li{font-size:16px!important;line-height:1.55!important}
+  .price{font-size:42px!important}
+  form{width:100%!important;box-sizing:border-box!important}
+  input,select,textarea,button{font-size:16px!important;box-sizing:border-box!important;width:100%!important}
+  .form-row{display:block!important}
+  footer{padding:30px 20px!important}
+}
+@media (max-width:380px){
+  .hero{padding-left:16px!important;padding-right:16px!important}
+  section{padding-left:16px!important;padding-right:16px!important}
+  .hero h1{font-size:34px!important}
+}
+</style>
 </head>
 <body>
 <header><div class="wrap nav">
