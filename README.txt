@@ -17,3 +17,5 @@ Naložite vse datoteke v public_html:
 Pomembno:
 - _next trenutno kaže na https://cistakanta.si/hvala.html
 - pred objavo mora domena cistakanta.si že kazati na vaše gostovanje.
+
+PREVIEW ČISTA KANTA
